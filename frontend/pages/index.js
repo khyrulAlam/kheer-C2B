@@ -1,8 +1,10 @@
 // import styled from 'styled-components'
+import Items from '../components/items'
+
 
 const Home = props => (
     <div>
-        <h3>Hello from home page</h3>
+        <Items />
     </div>
 )
 
